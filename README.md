@@ -32,7 +32,7 @@ Postman (API Testing)
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/yourusername/library-management-system.git
+https://github.com/MuhaiyadeenSulthan/library-management-system-API-project
 cd library-management-system
 
 2️⃣ Configure Database
@@ -58,12 +58,10 @@ Description
 *********
 
  1) Get all books ->  /api/books
-  
-    
 
  2) Get book by ID ->  /api/books/{id}
 
-  
+
    POST
  *********
 
